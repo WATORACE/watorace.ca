@@ -50,7 +50,7 @@ teammembers:
     role2: (undergraduate student)
     image: dmitry_tsarapkine.jpg
   - name: Elijah O'Leary
-    role: Software Engineering
+    role: Mechatronics Engineering
     role2: (undergraduate student)
     image: elijah_oleary.jpg
   - name: Kyle Anderson
@@ -69,4 +69,3 @@ teammembers:
     role: Computer Science
     role2: (undergraduate student)
     image: sinclair_hudson.jpg
-
