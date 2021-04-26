@@ -45,10 +45,6 @@ teammembers:
     role: Mechatronics Engineering
     role2: (undergraduate student)
     image: benjamin_kurrek.jpg
-  - name: Dmitry	Tsarapkine
-    role: Computer Science
-    role2: (undergraduate student)
-    image: dmitry_tsarapkine.jpg
   - name: Elijah O'Leary
     role: Mechatronics Engineering
     role2: (undergraduate student)
@@ -57,10 +53,6 @@ teammembers:
     role: Software Engineering
     role2: (undergraduate student)
     image: kyle_anderson.jpg
-  - name: Moiz Khan
-    role: Systems Design Engineering
-    role2: (undergraduate student)
-    image: moiz_khan.jpg
   - name: Ryan Larkin
     role: Computer Science
     role2: (undergraduate student)
@@ -69,3 +61,7 @@ teammembers:
     role: Computer Science
     role2: (undergraduate student)
     image: sinclair_hudson.jpg
+  - name: Maria Mihu
+    role: Mechatronics Engineering
+    role2: (undergraduate student)
+    image: maria_mihu.jpg
