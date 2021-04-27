@@ -53,6 +53,10 @@ teammembers:
     role: Software Engineering
     role2: (undergraduate student)
     image: kyle_anderson.jpg
+  - name: Maria Mihu
+    role: Mechatronics Engineering
+    role2: (undergraduate student)
+    image: maria_mihu.jpg
   - name: Ryan Larkin
     role: Computer Science
     role2: (undergraduate student)
@@ -61,7 +65,3 @@ teammembers:
     role: Computer Science
     role2: (undergraduate student)
     image: sinclair_hudson.jpg
-  - name: Maria Mihu
-    role: Mechatronics Engineering
-    role2: (undergraduate student)
-    image: maria_mihu.jpg
