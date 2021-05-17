@@ -37,6 +37,10 @@ teammembers:
     role: Electrical and Computer Engineering
     role2: (Master's student)
     image: ben_zhang.jpg
+  - name: Brian Mao
+    role: Applied Mathematics
+    role2: (Master's student)
+    image: brian_mao.jpg
   - name: Andy Li 
     role: Computer Engineering
     role2: (undergraduate student)
